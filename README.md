@@ -133,9 +133,5 @@ The server has been tested with:
 - [RFC 7231](https://tools.ietf.org/html/rfc7231) - HTTP/1.1 Semantics and Content
 - [RFC 3875](https://tools.ietf.org/html/rfc3875) - The Common Gateway Interface (CGI) Version 1.1
 
-## Contributors
-- [Your Name]
-- [Contributors' Names]
-
 ## License
 This project is licensed under the [Your License] - see the LICENSE file for details.
